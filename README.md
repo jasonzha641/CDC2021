@@ -12,13 +12,21 @@ Click [here](https://github.com/Carolina-Data-Challenge/project-template-21/gene
 The default repository directory is as follows:
 
 ### /datasets
-This is where you can put the files to your datasets. Links to this year's dataets are the following: 
- - 
- - 
- - 
- - 
+This is where you can put the files to your datasets. Links to this year's datasets are the following:
 
-To qualify for a reward, you must use one of our supplied datasets, but you may source any outside data to supplement our datasets. Additionally, to qualify for a track you must use at least one dataset for each track.
+**Healthcare**
+- Placeholder
+
+**Finance**
+- Placeholder
+
+**Social Science**
+- Placeholder
+
+**Pop Culture**
+- Placeholder
+
+To qualify for a reward, you must use one of our supplied datasets, but you may source any outside data to supplement our datasets. Additionally, to qualify for a track you must use **at least one** dataset from that specific track.
 
 More info on the datasets can be found [here](https://github.com/Carolina-Data-Challenge/project-template-21/tree/main/datasets).
 
