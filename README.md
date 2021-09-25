@@ -23,7 +23,7 @@ This is where you can find more information on your datasets. You may put your d
 **Social Science**
 - Placeholder
 
-**Pop Culture**
+**Media**
 - Placeholder
 
 To qualify for a reward, you must use one of our supplied datasets, but you may source any outside data to supplement our datasets. Additionally, to qualify for a track you must use **at least one** dataset from that specific track.
