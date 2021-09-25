@@ -30,11 +30,11 @@ To qualify for a reward, you must use one of our supplied datasets, but you may 
 
 More info on the datasets can be found [here](https://github.com/Carolina-Data-Challenge/project-template-21/tree/main/datasets).
 
-### /code
+### /project
 This is where you can put/write code/files for your applications. You may use whatever programming language you want or use whichever statistical tools you need. Just remember that all work must original to this hackathon.
 
 ### /final-product
-When you are finished with your work. You can put the results of your analysis here. Whether it be slides, graphics, or just a short write up explaining your work and your results, please put whatever you want the judges to see. In addition, a 5 minute video must be submitted to our [Devpost](https://cdcunc21.devpost.com/) for judging.
+You can see more info on what you need to submit here. In summary, both your repository and a 5 minute video must be submitted to our [Devpost](https://cdcunc21.devpost.com/) for judging.
 
 ---
 
