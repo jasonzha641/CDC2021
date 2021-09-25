@@ -20,7 +20,7 @@ This is where you can put the files to your datasets. Links to this year's datae
 
 To qualify for a reward, you must use one of our supplied datasets, but you may source any outside data to supplement our datasets. Additionally, to qualify for a track you must use at least one dataset for each track.
 
-More info on the datasets can be found [here](https://github.com/Carolina-Data-Challenge/cdc-public-21/tree/main/datasets#readme).
+More info on the datasets can be found [here](https://github.com/Carolina-Data-Challenge/project-template-21/tree/main/datasets).
 
 ### /code
 This is where you can put/write code/files for your applications. You may use whatever programming language you want or use whichever statistical tools you need. Just remember that all work must original to this hackathon.
