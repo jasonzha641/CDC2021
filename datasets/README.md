@@ -17,7 +17,7 @@ This is the SEC dataset that provides numeric information from the face financia
 ### CDC’s Social Vulnerability Index (SVI) – 2014 overall SVI, census tract level - Wake County
 This is Wake County's data on it's 2014 overall Social Vulnerability Index. While it is Wake County's data, it also includes records from all across the US. Additionally, they also supply a very useful geospacial visualization tool [here](https://data-wake.opendata.arcgis.com/datasets/ral::cdcs-social-vulnerability-index-svi-2014-overall-svi-census-tract-level-wake-county/explore?location=35.299047%2C-79.049747%2C3.07) (It is recommended to use Google Chrome or Microsoft Edge to view this visualization).
 
-## Pop Culture
+## Media
 
 ### Worldwide Mobile App User Behavior Dataset
 These are the results of a survey of mobile app users conducted by Harvard University. It includes mostly categorical data from over 10208 people across 15 countries.
