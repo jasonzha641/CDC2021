@@ -20,4 +20,9 @@ This is Wake County's data on it's 2014 overall Social Vulnerability Index. Whil
 ## Pop Culture
 
 ### Worldwide Mobile App User Behavior Dataset
-These are the results of a survey of 10208 people across 15 countries conducted from 2012 to 2014 by Harvard University.
+These are the results of a survey of mobile app users conducted by Harvard University. It includes mostly categorical data from over 10208 people across 15 countries.
+
+### 763K IOS Apps
+This is the result of webscraping data from 763,831 apps the Apple App Store. The Dataset includes 19 columns like the primary genere, the price in USD, the total average rating.
+
+*In the case of pop culture, since there are 2 data sets provided, only 1 needs to be used to qualify for submitting for the track. Of course, we won't dissuade anyone from using both.*
