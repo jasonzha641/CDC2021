@@ -8,11 +8,11 @@ Click [here](https://github.com/Carolina-Data-Challenge/project-template-21/gene
 
 ---
 
-## About
+## Folders in this template.
 The default repository directory is as follows:
 
 ### /datasets
-This is where you can put the files to your datasets. Links to this year's datasets are the following:
+This is where you can find more information on your datasets. You may put your datasets in this folder but please keep in mind git/Github's file size limitations. Links to this year's datasets are the following:
 
 **Healthcare**
 - Placeholder
