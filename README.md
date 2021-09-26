@@ -2,9 +2,7 @@
 
 Welcome to the datathon/hackathon portion of the Carolina Data Challenge!
 
-This repository will serve as starting platform project. You can create your own repository using this as a template, or just download it to configure it manually. Do whatever works best for you. Just don't clone the repository directly.
-
-Click [here](https://github.com/Carolina-Data-Challenge/project-template-21/generate) to generate a repository using this one as a template.
+This repository will serve as starting platform for your team's project. You can create your own repository using this as a template. Click [here](https://github.com/Carolina-Data-Challenge/project-template-21/generate) or the "Use this Template" button in the top right corner to generate a repository using this one as a template.
 
 ---
 
@@ -34,8 +32,12 @@ More info on the datasets can be found [here](https://github.com/Carolina-Data-C
 ### /project
 This is where you can put/write code/files for your applications. You may use whatever programming language you want or use whichever statistical tools you need. Just remember that all work must original to this hackathon.
 
-### /final-product
+More resources on projects [here](https://github.com/Carolina-Data-Challenge/project-template-21/tree/main/project).
+
+### /submission
 You can see more info on what you need to submit here. In summary, both your repository and a 5 minute video must be submitted to our [Devpost](https://cdcunc21.devpost.com/) for judging.
+
+More details and instructions on submissions [here](https://github.com/Carolina-Data-Challenge/project-template-21/tree/main/submission).
 
 ---
 
