@@ -27,6 +27,6 @@ This is the result of webscraping data from 763,831 apps the Apple App Store. Th
 
 ## Basic Rules
 
-Please remember that every submission is required to use at least one CDC dataset. Outside data is allowed in the context of supplementing the datasets that we have provided. Additionally, you may only submit to tracks that you have used a corresponding data set of.
+Please remember that every submission is required to use at least one CDC dataset. Outside data is only allowed in the context of supplementing the datasets that we have provided. Additionally, you may only submit to tracks that you have used a corresponding data set of.
 
 *In the case of pop culture, since there are 2 data sets provided, only 1 needs to be used to qualify for submitting for the track. Of course, we won't dissuade anyone from using both.*
