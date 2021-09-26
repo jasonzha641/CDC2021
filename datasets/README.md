@@ -25,6 +25,8 @@ These are the results of a survey of mobile app users conducted by Harvard Unive
 ### 763K IOS Apps ([link](https://www.kaggle.com/cmqub19/763k-ios-app-info))
 This is the result of webscraping data from 763,831 apps the Apple App Store. The Dataset includes 19 columns like the primary genere, the price in USD, the total average rating.
 
-*In the case of pop culture, since there are 2 data sets provided, only 1 needs to be used to qualify for submitting for the track. Of course, we won't dissuade anyone from using both.*
+## Basic Rules
 
 Please remember that every submission is required to use at least one CDC dataset. Outside data is allowed in the context of supplementing the datasets that we have provided. Additionally, you may only submit to tracks that you have used a corresponding data set of.
+
+*In the case of pop culture, since there are 2 data sets provided, only 1 needs to be used to qualify for submitting for the track. Of course, we won't dissuade anyone from using both.*
