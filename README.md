@@ -35,7 +35,7 @@ This is where you can put/write code/files for your applications. You may use wh
 More resources on projects [here](https://github.com/Carolina-Data-Challenge/project-template-21/tree/main/project).
 
 ### /submission
-You can see more info on what you need to submit here. In summary, both your repository and a 5 minute video must be submitted to our [Devpost](https://cdcunc21.devpost.com/) for judging.
+You can see more info on what you need to submit here. In summary, both your repository and a 5 minute video must be submitted to our [Devpost](https://cdcunc21.devpost.com/) for judging. In addition, you must specify which track that you want to submit to.
 
 More details and instructions on submissions [here](https://github.com/Carolina-Data-Challenge/project-template-21/tree/main/submission).
 
