@@ -15,16 +15,17 @@ The default repository directory is as follows:
 This is where you can find more information on your datasets. You may put your datasets in this folder but please keep in mind git/Github's file size limitations. Links to this year's datasets are the following:
 
 **Healthcare**
-- Placeholder
+- https://aspe.hhs.gov/reports/state-county-local-estimates-uninsured-population-prevalence-key-demographic-features
 
 **Finance**
-- Placeholder
+- https://www.sec.gov/dera/data/financial-statement-data-sets.html
 
 **Social Science**
-- Placeholder
+- https://data-wake.opendata.arcgis.com/datasets/ral::cdcs-social-vulnerability-index-svi-2014-overall-svi-census-tract-level-wake-county/about
 
 **Media**
-- Placeholder
+- https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/27459
+- https://www.kaggle.com/cmqub19/763k-ios-app-info
 
 To qualify for a reward, you must use one of our supplied datasets, but you may source any outside data to supplement our datasets. Additionally, to qualify for a track you must use **at least one** dataset from that specific track.
 
